@@ -15,18 +15,19 @@
                 text-decoration: none;
                 padding: 0.5em 1em 0.5em 1em;
             }
-            #title
-            {
-                color: #433729;
-            }
-            html
-            {
-                font-family: sans-serif;
-            }
             body
             {
-                line-height: 1.5em;
                 background: #FAFAFA;
+            }
+            .contents
+            {
+                background: #FFFFFF;
+                width: 720px;
+                padding: 1em;
+                margin-top: 2em;
+                margin-bottom: 2em;
+                border: 1px solid #E0E0E0;
+                text-align: left;
             }
             table
             {
@@ -40,30 +41,17 @@
                 margin-top: 0.5em;
                 margin-bottom: 0.5em;
             }
-            .contents
-            {
-                background: #FFFFFF;
-                width: 720px;
-                padding: 1em;
-                margin-top: 2em;
-                margin-bottom: 2em;
-                border: 1px solid #E0E0E0;
-                text-align: left;
-                color: #444;
-            }
         </style>
-        <title>Cool me</title>
+        <title>Serov</title>
     </head>
     <body>
         <div id="header">
-            <strong id="title">Cool me</strong>
-            <a href="index.html">About</a>
+            <strong>Serov</strong>
+            <a href="index.html">About me</a>
             <a href="cv.html">CV</a>
         </div>
         <center>
-            <h1>
-PSKOV_ITEM_TITLE
-            </h1>
+            <h1>PSKOV_ITEM_TITLE</h1>
             <div class="contents">
 PSKOV_ITEM_CONTENTS
             </div>
