@@ -1,3 +1,3 @@
-This is a list of data samples referenced by [PSKOV tutorials][tutorials] to create web sites.
+This is a list of data samples referenced by [PSKOV education][education] tutorials that teach you how to create static web sites.
 
-[tutorials]: http://opengamestudio.org/pskov/en/tutorial.html
+[tutorials]: http://opengamestudio.org/pskov/en/education.html
