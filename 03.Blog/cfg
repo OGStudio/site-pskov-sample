@@ -1,0 +1,11 @@
+input = en/page;ru/page;en/blog;ru/blog
+item = item.template
+preview = preview.template
+index = index.template
+paginationPrev = pagination.prev.template
+paginationNext = pagination.next.template
+paginationPrevNext = pagination.template
+previewSize = 200
+previewEnding = . . .
+previewsPerPage = 3
+previewPageBaseName = index
