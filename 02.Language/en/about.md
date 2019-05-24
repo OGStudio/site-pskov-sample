@@ -1,5 +1,5 @@
 Title: About me
-Slug: index
+Slug: about
 
 Hi, my name is Valentin Serov. Here's my self-portrait:
 
